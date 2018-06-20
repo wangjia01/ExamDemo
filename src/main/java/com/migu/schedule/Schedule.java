@@ -12,8 +12,11 @@ import java.util.List;
 public class Schedule {
 
 
+
     public int init() {
-        // TODO 方法未实现
+        Schedule schedule = new Schedule();
+        /////
+        // TODO 方法未实现qing
         return ReturnCodeKeys.E000;
     }
 
